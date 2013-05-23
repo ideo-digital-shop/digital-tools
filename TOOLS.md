@@ -27,7 +27,7 @@
 
 ### other
 * [Notify.js](http://alxgbsn.co.uk/2013/02/20/notify-js-a-handy-wrapper-for-the-web-notifications-api/) - Abstraction for browser notifications
-
+* [three.js](http://threejs.org/) - 3D manipulation in the browser. via WebGL.
 
 ## Wireframing
 * [Balsamiq](http://www.balsamiq.com/) - Rapid mobile wireframing tool
