@@ -33,6 +33,7 @@
 ## Wireframing
 * [Balsamiq](http://www.balsamiq.com/) - Rapid mobile wireframing tool
 * [Mockingbird](https://gomockingbird.com/) - Rapid website wireframing tool
+* [Reveal.js](http://lab.hakim.se/reveal-js/#/) - HTML presentations made easy
 
 ## SASS lib
 * [Bourbon.io](http://bourbon.io/) - lightweight mixin lib
