@@ -12,6 +12,11 @@
 ## Web
 * [Scroll Kit](https://www.scrollkit.com/) - Quick single dynamic page editor, think NYT Snow Article
 * [Froont](http://froont.com/) - Visual design of responsive web pages
+* [HTML5 Boilerplate](http://html5boilerplate.com/) - Boiler plate for cross-browser compatible HTML5
+
+## Javascript libraries
+* [Twitter Bootstrap](http://twitter.github.io/bootstrap/javascript.html) - easy UI elements and effects
+
 
 ## Wireframing
 * [Balsamiq](http://www.balsamiq.com/) - Rapid mobile wireframing tool
