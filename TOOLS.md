@@ -27,10 +27,17 @@
 * [d3](http://d3js.org/) - data viz
 * [three.js](http://threejs.org/) - 3D manipulation in the browser. via WebGL.
 
+#### typography
+* [lettering.js](http://letteringjs.com/) - jquery plugin for controlling type down to the letter
+
+
 #### other
 * [Notify.js](http://alxgbsn.co.uk/2013/02/20/notify-js-a-handy-wrapper-for-the-web-notifications-api/) - Abstraction for browser notifications
 * [Prettify](https://code.google.com/p/google-code-prettify/) - Syntax highlighting for displaying code
 * [Bootstro.js](http://clu3.github.io/bootstro.js/#) - makes it easy for a first time walk through of a web page
+
+
+
 
 ## Wireframing
 * [Balsamiq](http://www.balsamiq.com/) - Rapid mobile wireframing tool
@@ -40,3 +47,5 @@
 ## SASS lib
 * [Bourbon.io](http://bourbon.io/) - lightweight mixin lib
 * [Compass](http://compass-style.org/) - robust css framework
+* 
+
