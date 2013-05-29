@@ -14,7 +14,7 @@
 * [Scroll Kit](https://www.scrollkit.com/) - Quick single dynamic page editor, think NYT Snow Article
 * [Froont](http://froont.com/) - Visual design of responsive web pages
 * [HTML5 Boilerplate](http://html5boilerplate.com/) - Boiler plate for cross-browser compatible HTML5
-* [Pure](http://purecss.io/) - UI elements/grid/layout with pure css
+* [Pure](http://purecss.io/) - UI elements/grid/layout with pure css. Yahoo!'s version of bootstrap except amazingly tiny and only in css
 
 ## Javascript libraries
 
