@@ -26,16 +26,18 @@
 * [raphael.js](http://raphaeljs.com/) - 2D canvas manipulation. awesome with vectors.
 * [d3](http://d3js.org/) - data viz
 * [three.js](http://threejs.org/) - 3D manipulation in the browser. via WebGL.
+* [threesixty.js](http://nick-jonas.github.io/threesixtyjs/) - takes a series of images of a model and makes a 360 view of it
 
 #### typography
 * [lettering.js](http://letteringjs.com/) - jquery plugin for controlling type down to the letter
+* [textillate.js](http://jschr.github.io/textillate/) - js lib for animating text. uses lettering.js
 
 
 #### other
 * [Notify.js](http://alxgbsn.co.uk/2013/02/20/notify-js-a-handy-wrapper-for-the-web-notifications-api/) - Abstraction for browser notifications
 * [Prettify](https://code.google.com/p/google-code-prettify/) - Syntax highlighting for displaying code
 * [Bootstro.js](http://clu3.github.io/bootstro.js/#) - makes it easy for a first time walk through of a web page
-
+* [Stately](http://intridea.github.io/stately/) - puts the continental US in a font
 
 
 
