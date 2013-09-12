@@ -52,10 +52,6 @@
 
 --------------------------------------------------------
 
-# _Tools
-
-A collection of digital tools/libraries/frameworks for building and prototyping
-
 ### A note on syntax:
 tools.md is a Markdown file. Markdown is a simplified rich document
 syntax that produces HTML. 
